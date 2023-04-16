@@ -9,14 +9,16 @@ String formatedNow = now.format(DateTimeFormatter.ofPattern("yyyy년 MM월 dd일
 %>
 <!DOCTYPE html>
 <style>
-*{
+* {
 	text-align: center;
 }
-table{
- margin: 0 auto;
+
+table {
+	margin: 0 auto;
 }
-body{
-background-color: #CCE1FF;
+
+body {
+	background-color: #CCE1FF;
 }
 </style>
 <html>
